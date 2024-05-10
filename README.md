@@ -32,18 +32,4 @@ Implement a digital system integrating face detection and mobile proximity techn
    - Develop a user-friendly interface within the mobile app for hospital staff to view real-time doctor locations, verify presence, and coordinate patient care efficiently.
    - Implement notifications and alerts based on doctor proximity and availability to streamline appointment scheduling and improve communication.
 
-## Technology Stack:
-- **Front-End Development (Mobile App):** React Native
-- **Backend Development (RESTful API):** Flask
-- **Machine Learning Modules:**
-  - **Deep Learning Frameworks:** TensorFlow, PyTorch
-  - **Natural Language Processing (NLP):** Natural Language Toolkit (NLTK)
-- **Face Detection:** OpenCV
-- **Proximetric Detection:** Scapy
-- **Data Analytics and Processing:**
-  - **Numerical Computing:** NumPy, Pandas
-  - **Data Visualization:** Seaborn
-- **Database Management:** PostgreSQL
-- **Various ML Algorithms:**
-  - Implement various machine learning algorithms using TensorFlow and PyTorch for tasks such as demand prediction, resource optimization, and appointment scheduling.
-  - Incorporate NLP libraries or frameworks for text analysis and processing related to patient symptoms, medical records, or appointment notes.
+
