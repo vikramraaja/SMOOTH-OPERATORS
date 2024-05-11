@@ -35,12 +35,7 @@ const SignIn = () => {
             otherStyles="mt-7"
             keybordType="email-address"
           />
-          <FormField
-            title="Password"
-            value={form.password}
-            handleChangeText={(e) => setForm({ ...form, password: e })}
-            otherStyles="mt-7"
-          />
+
 
           <CustomButton
             title="Sign in"
