@@ -38,7 +38,6 @@ Technology Stack:
 - **Machine Learning Modules:**
   - *Deep Learning Frameworks:* TensorFlow, PyTorch
   - *Natural Language Processing (NLP):* Natural Language Toolkit (NLTK)
-- **RFID Module:** MFRC522
 - **Face Detection:** OpenCV
 - **Proximetric Detection:** Scapy
 - **Data Analytics and Processing:**
